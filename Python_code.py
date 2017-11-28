@@ -26,7 +26,7 @@ def multiplication(a, b):
      return product
 
 
-def whatever(a, b):
+def whatever_new_branch(a, b):
 
      ans = a * b + 4
 
