@@ -5,22 +5,22 @@ def addition(a, b):
      return summation
 
 
-# def subtraction(a, b):
+def subtraction(a, b):
 
-#     difference = a - b
+     difference = a - b
 
-#     return difference
-
-
-# def division(a, b):
-
-#     quotient = a / b
-
-#     return quotient
+     return difference
 
 
-# def multiplication(a, b):
+ def division(a, b):
 
-#     product = a * b
+     quotient = a / b
 
-#     return product
+     return quotient
+
+
+def multiplication(a, b):
+
+     product = a * b
+
+     return product
