@@ -26,7 +26,7 @@ def multiplication(a, b):
      return product
 
 
-def whatever(a, b):
+def whatever_new(a, b):
 
      ans = a * b + 4
 
