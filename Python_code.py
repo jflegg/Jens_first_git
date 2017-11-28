@@ -24,3 +24,10 @@ def multiplication(a, b):
      product = a * b
 
      return product
+
+
+def whatever(a, b):
+
+     ans = a * b + 4
+
+     return ans
